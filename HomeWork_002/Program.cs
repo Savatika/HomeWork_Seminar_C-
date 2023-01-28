@@ -1,4 +1,6 @@
-﻿int.TryParse (Console.ReadLine(), out int a);
+﻿// нахождение максимального из трех чисел (2 варианта решения)
+Console.WriteLine("Введите три числа")
+int.TryParse (Console.ReadLine(), out int a);
 int.TryParse (Console.ReadLine(), out int b);
 int.TryParse (Console.ReadLine(), out int c);
 if ((a < b) & (b < c) | (b < a) & (a < c))
