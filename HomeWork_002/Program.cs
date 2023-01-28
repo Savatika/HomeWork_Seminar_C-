@@ -1,27 +1,14 @@
-﻿// нахождение максимального из трех чисел (2 варианта решения)
+﻿// нахождение максимального из трех чисел
 Console.WriteLine("Введите три числа");
 int.TryParse (Console.ReadLine(), out int a);
 int.TryParse (Console.ReadLine(), out int b);
 int.TryParse (Console.ReadLine(), out int c);
-if ((a < b) & (b < c) | (b < a) & (a < c))
-{
-Console.Write("max = ");
-Console.WriteLine(c);
-}
 
-else if ((a < c) & (c < b) | (c < a) & (a < b))
-{
-Console.Write("max = ");
-Console.WriteLine(b);
-}
+int max = a;
 
-else if ((c < b) & (b < a) | (b < c) & (c < a))
-{
-Console.Write("max = ");
-Console.WriteLine(a);
-}
+if (a > max) max = a;
+if (b > max) max = b;
+if (c > max) max = c;
 
-else
-{
-    Console.WriteLine("Числа равны");
-}
+Console.Write("max = ");
+Console.WriteLine(max);
