@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 Console.WriteLine("Введите число");
 int.TryParse(Console.ReadLine(), out int N);
 if (N>=100)
