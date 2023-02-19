@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// найти точку пересечения прямых
 Console.WriteLine("Введите число");
 int k1 = int.Parse(Console.ReadLine());
 int k2 = int.Parse(Console.ReadLine());
