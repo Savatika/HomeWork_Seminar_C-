@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\bin\Debug\net6.0\df.exe
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\bin\Debug\net6.0\df.deps.json
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\bin\Debug\net6.0\df.runtimeconfig.json
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\bin\Debug\net6.0\df.dll
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\bin\Debug\net6.0\df.pdb
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\obj\Debug\net6.0\df.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\obj\Debug\net6.0\df.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\obj\Debug\net6.0\df.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\obj\Debug\net6.0\df.AssemblyInfo.cs
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\obj\Debug\net6.0\df.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\obj\Debug\net6.0\df.dll
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\obj\Debug\net6.0\refint\df.dll
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\obj\Debug\net6.0\df.pdb
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\obj\Debug\net6.0\df.genruntimeconfig.cache
+C:\Users\admin\Desktop\HomeWork\HomeWork_Seminar7\df\obj\Debug\net6.0\ref\df.dll
